@@ -1,5 +1,7 @@
-nav {
+#header-nav {
 	background-color: gray;
+	border-radius: 0;
+	border: 0;
 }
 
 div.collapse ul li {
